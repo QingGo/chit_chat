@@ -1,0 +1,3 @@
+[submodule "chit_chat_backend"]
+	path = chit_chat_backend
+	url = https://github.com/QingGo/chit_chat_backend.git
